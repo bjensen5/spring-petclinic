@@ -32,7 +32,7 @@
     <spring-format.version>0.0.19</spring-format.version>
     <checkstyle.skip>true</checkstyle.skip>
   </properties>
-<!--
+
   <dependencies>
     <!-- Spring and Spring Boot dependencies -->
     <dependency>
@@ -129,7 +129,6 @@
       <optional>true</optional>
     </dependency>
   </dependencies>
--->
 
   <build>
     <plugins>
