@@ -97,28 +97,28 @@ https://github.com/bjensen5/spring-petclinic/blob/master/Dockerfile
 
 #
 #
-### Your browser accessing the “Veterinarians” page of the website from your local con-tainer when you run the application from the host system
+### Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system
 # 
-![]()
+![Screen Capture #14](figures/screenCap14.png)
 
 #
 #
-### A  section  of  the  stack  trace  generated  when  you  attempt  to  run  the  applicationcontainer that has been updated to use MySQL
+### A  section  of  the  stack  trace  generated  when  you  attempt  to  run  the  application container that has been updated to use MySQL
 # 
-![]()
+![Screen Capture #15](figures/screenCap15.png)
 
 #
 #
 ## Docker Compose --both
 #
 #
-### Your updated docker-compose.ymlfile containing the application server, built from your local Dockerfile, and the existing MySQL configuration.  Please provide a link to this file rather than a screen capture.
+### Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration.  Please provide a link to this file rather than a screen capture.
 # 
-![]()
+
 
 #
 #
-### Your updated application-mysql.properties file containing the URL change forthe database server.  Please provide a link to this file rather than a screen capture.
+### Your updated application-mysql.properties file containing the URL change for the database server.  Please provide a link to this file rather than a screen capture.
 # 
 
 #
