@@ -89,7 +89,6 @@ https://github.com/bjensen5/spring-petclinic/blob/master/Dockerfile
 #
 ## Docker Compose --mysql only
 #
-#
 ### The output from the docker-compose upcommand
 # 
 ![Screen Capture #13a](figures/screenCap13a.png)
@@ -111,9 +110,9 @@ https://github.com/bjensen5/spring-petclinic/blob/master/Dockerfile
 #
 ## Docker Compose --both
 #
-#
 ### Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration.  Please provide a link to this file rather than a screen capture.
 # 
+https://github.com/bjensen5/spring-petclinic/blob/master/docker-compose.yml
 
 
 #
