@@ -125,13 +125,14 @@ https://github.com/bjensen5/spring-petclinic/blob/master/src/main/resources/appl
 #
 ### The output from the docker-compose up command
 # 
-![]()
+![Screen Capture #16a](figures/screenCap16a.png)
+![Screen Capture #16b](figures/screenCap16b.png)
 
 #
 #
-### Your browser accessing the “Veterinarians” page of the website from your local con-tainer.
+### Your browser accessing the “Veterinarians” page of the website from your local container.
 #
-![]()
+![Screen Capture #17](figures/screenCap17.png)
 
 
 
